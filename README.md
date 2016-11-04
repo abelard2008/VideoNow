@@ -1,5 +1,7 @@
 # VideoNow
 
+See my post about this repository here: https://terranjendro.wordpress.com/2016/11/04/aws-mysql-tableau-visualizations/
+
 In this repository, I have compiled the 2 main files that make up the data for my visualizations in Tableau:
 
 1. sakila-schema.sql
